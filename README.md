@@ -34,7 +34,7 @@ MJC LIFE Chatbot 개발
   카카오톡 챗봇 내에서 사용할 정보의 depth 설정하고, 그 depth에 따른 if문으로 구문 작성  
   
   1차 Depth 설정(Google 스프레드 시트에 작성한 Sheet 제목대로 1차 Depth 설정 예정)   
-  2차 Depth 설정(buttond을 통하여 사용자가 원하는 정보가 출력될 수 있도록 설정 예정) > 사용자가 원하는 정보를 빨리 찾을 수 있도록 Depth 단계 최대한 낮출 것     
+  2차 Depth 설정(button을 통하여 사용자가 원하는 정보가 출력될 수 있도록 설정 예정) > 사용자가 원하는 정보를 빨리 찾을 수 있도록 Depth 단계 최대한 낮출 것     
   3차 Web Crwaling(정보가 너무 많아 출력하기 힘든 정보의 경우 웹 Crawling을 통하여 해당 내용 대체) 
   
 
