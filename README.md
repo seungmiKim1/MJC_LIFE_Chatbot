@@ -5,9 +5,9 @@ MJC LIFE Chatbot 개발
 **프로젝트기간 : **2021.09.07 ~ 2021.11.30
 **협업툴 :** Slack,Github 
 **프로젝트 툴 :**
-  사용 언어 : Python,JSON,etc 
-  사용할 플랫폼 : Google DialogFlow,카카오톡 플러스친구 
-  웹 서버 : Heroku 
+  사용 언어 : JavaScript
+  사용할 플랫폼 : VSCode, Node.js, etc.. 
+  웹 서버 : Node.js
 
 **기획 의도 :** MJC 재학생들에게 정보를 주기 위한 챗봇을 개발하여 학사정보,학교생활정보 등을 바로 제공하고자 한다. 
 
@@ -27,6 +27,9 @@ MJC LIFE Chatbot 개발
 ** 현재 진행중 : **
   기획서 작성(완료) 
   MJC 홈페이지 등을 통한 데이터 수집(완료) 
-  DialogFlow에서 각 데이터들에 대한 intent,entity 값 설정(진행중) 
+  VSCode에서 Node.js를 이용하여 웹 서버 테스트(완료) 
+  카카오톡 오픈빌더 승인요청중 
+  1차 발표 예정 
+  카카오톡 챗봇 내에서 사용할 정보의 depth 설정하고, 그 depth에 따른 if문으로 구문 작성
   
 
