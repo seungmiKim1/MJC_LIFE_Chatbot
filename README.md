@@ -1,7 +1,7 @@
 # MJC_LIFE_Chatbot
 MJC LIFE Chatbot 개발 
 
-### ** 팀원 :  **   @seungmiKim1 @anjunjang @JeongMyongWon    
+### **팀원:**   @seungmiKim1 @anjunjang @JeongMyongWon    
 ### ** 프로젝트기간 : **  2021.09.07 ~ 2021.11.30    
 ### **협업툴 :**   Slack,Github   
 ### **프로젝트 툴 **      
