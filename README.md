@@ -3,14 +3,16 @@ MJC LIFE Chatbot 개발
 
 **팀원 :**   
 @seungmiKim1 @anjunjang @JeongMyongWon  
-**프로젝트기간 : **2021.09.07 ~ 2021.11.30  
-**협업툴 :** Slack,Github 
-**프로젝트 툴 **  
+**프로젝트기간 : **  
+2021.09.07 ~ 2021.11.30  
+**협업툴 :**   
+Slack,Github 
+**프로젝트 툴 **    
   사용 언어 : JavaScript  
   사용할 플랫폼 : VSCode, Node.js, etc..   
   웹 서버 : Node.js  
 
-**기획 의도 **  
+**기획 의도**
   MJC 재학생들에게 정보를 주기 위한 챗봇을 개발하여 학사정보,학교생활정보 등을 바로 제공하고자 한다.  
 
 **기획 배경 **  
