@@ -1,8 +1,8 @@
-# MJC_LIFE_Chatbot
+# MJC_Engineering LIFE_Chatbot
 MJC LIFE Chatbot 개발 
 
 ### **팀원:**   @seungmiKim1 @anjunjang @JeongMyongWon    
-### **프로젝트기간:**  2021.09.07 ~ 2021.11.30    
+### **프로젝트기간:**  2021.09.07 ~ 2021.11.26
 ### **협업툴:**   Slack,Github   
 ### **프로젝트 툴**      
   사용 언어 : JavaScript  
@@ -26,16 +26,8 @@ MJC LIFE Chatbot 개발
   채팅을 할 수 있어 사용자가 원하는 시간에 바로바로 정보를 얻지 못한다는 단점이 있다.     
   
 ### **현재 진행중**  
-  기획서 작성(완료)   
-  MJC 홈페이지 등을 통한 데이터 수집(완료)   
-  VSCode에서 Node.js를 이용하여 웹 서버 테스트(완료)   
-  카카오톡 오픈빌더 승인요청 (완료) 
-  1차 발표 예정 (완료) 
-  카카오톡 챗봇 내에서 사용할 정보의 depth 설정하고, 그 depth에 구문 작성 (진행중) + etc 
-  서버 관리(AWS,Heroku 등으로 관리) 
-  
-  1차 Depth 설정(Google 스프레드 시트에 작성한 Sheet 제목대로 1차 Depth 설정 예정)   
-  2차 Depth 설정(button을 통하여 사용자가 원하는 정보가 출력될 수 있도록 설정 예정) > 사용자가 원하는 정보를 빨리 찾을 수 있도록 Depth 단계 최대한 낮출 것     
-  3차 Web Crwaling(정보가 너무 많아 출력하기 힘든 정보의 경우 웹 Crawling을 통하여 해당 내용 대체) 
-  
+  담당 영역 
+  ksm) 과제추진계획서 작성, PPT 작성, VSCode로 node.js,socket.io 이용하여 실시간 채팅 프로그램 구현 + 작성된 카카오 오픈빌더(플로스친구)와 web page 연결 
+  jaj) 카카오 오픈빌더 데이터set 구현 
+  jmw) 카카오 오픈빌더 데이터set 구현 
 
