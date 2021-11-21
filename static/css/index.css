@@ -1,0 +1,66 @@
+#main {
+    margin: auto;
+    margin-top: 10px;
+    border-radius:20px;
+    background-color: lightblue;
+    text-align: right;
+    /* position: fixed;*/
+    bottom:50px;
+    width: 500px; /* 전체 채팅창 화면 크기*/
+    height: 600px;
+  }
+
+#inputmsg {
+    width:400px;
+    display: block; 
+    text-align: center;
+    position: fixed;
+    bottom:170px;
+
+}
+
+/*#msgbtn { 
+    width:870px;
+    display: block; 
+    text-align: center;
+    position: fixed;
+    bottom:170px;
+} 이거 때문에 채팅창 입력이 안되었었음*/
+
+#chat { 
+    height: 90%;
+    width: 100%;
+    overflow-y: auto;
+}
+
+.connect { 
+    width: 90%;
+    margin: auto;
+    background-color:  aquamarine;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.disconnect { 
+    width: 90%;
+    margin: auto;
+    background-color: indianred;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.me { 
+    width: 90%;
+    margin: auto;
+    background-color: lemonchiffon;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.other { 
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}

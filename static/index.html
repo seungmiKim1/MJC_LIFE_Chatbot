@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title>MJC 공학관 학생들 전용 채팅</title>
+            <link rel="stylesheet" href="/css/index.css">
+            <script src="https://cdn.socket.io/socket.io-3.0.1.min.js"></script>
+            <script src="/js/index.js"></script>
+
+        <style>
+            #mybtn { 
+                margin:0 auto;
+                width:50%;
+                height:50px;
+                display: block; 
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 align="center">MJC 공학관 학생 전용 실시간 채팅</h1>
+        <h3 align="center">명지전문대학 공학관 학생들을 위한 실시간 채팅 서비스 입니다.</h3>
+        <!--<a href="http://pf.kakao.com/_CYpAb"> 
+            <img src="logo.png" width="100" height="100" alt="카카오톡 플러스친구와 연결">
+        </a> -->
+        
+        <!--현재 버튼에 카카오톡 플러스친구 링크 걸기-->
+        <div id="mybtn">
+            <button type="button" onclick="window.open('http://pf.kakao.com/_CYpAb');">카카오톡 플러스친구로 채팅하기</button>
+        </div>
+
+        <div id="main">
+            <!--<input type="text" id="test" placeholder="메시지를 입력해주세요">-->
+            <!--<button onclick="send()">메시지 전송</button>-->
+        
+            <div id="inputmsg">
+                <input type="text" id="test" style="width:350px" placeholder="MJC 공학관 정보 공유를 위한 메시지를 입력해주세요">
+            </div>
+
+            
+
+            <div id="msgbtn">
+                <button onclick="send()" style="background-color:yellow;" >메시지 전송</button>
+            </div>
+            
+       
+        </div>
+
+    </body>
+
+
+
+
+</html>
