@@ -27,7 +27,7 @@ MJC LIFE Chatbot 개발
   
 ### **현재 진행중**    
   담당 영역   
-  ksm) 과제추진계획서 작성, PPT 작성,데이터수집,VSCode로 node.js,socket.io+html/css/javascript 이용하여 실시간 채팅 프로그램 구현 + 작성된 카카오 오픈빌더(플러스친구)와 web page 연결 
+  ksm) 과제추진계획서 작성, PPT 작성,데이터수집,VSCode로 node.js,socket.io+html/css/javascript 이용하여 실시간 채팅 프로그램 구현 + 작성된 카카오 오픈빌더(플러스친구)와 web page 연결   
   jaj) 카카오 오픈빌더 데이터set 구현   
   jmw) 카카오 오픈빌더 데이터set 구현   
 
