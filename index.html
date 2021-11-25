@@ -88,14 +88,14 @@
         e.preventDefault();
 
         var msg = messageInput.value;
-        socket.emit("USERMSG", {nickname : nickname, msg:msg});
+        socket.emit("userMsg", {nickname : nickname, msg:msg});
         console.log("submit...." + msg);
 
         messageInput.value = "";
 
     }
 
-    socket.on("SERVERMSG", (data)=>{
+    socket.on("serverMsg", (data)=>{
         console.log(data.nickname);
         msgUL.innerHTML = msgUL.innerHTML + '<li><b><br>'+data.nickname+'</b></br>'+ data.msg +'</li>';
 

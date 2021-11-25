@@ -17,13 +17,13 @@ io.on('connection', function(socket){
         console.log('사용자와 채팅의 연결이 끊어졌습니다.');
     });
 
-    socket.on("USERMSG", (data)=>{
+    socket.on("userMsg", (data)=>{
         console.log(data);
-        io.emit("SERVERMSG", data);
+        io.emit("serverMsg", data);
       
     })
 
-    socket.on("SETNICKNAME", (nickname)=>{
+    socket.on("settingNickname", (nickname)=>{
         users[nickname] = socket;
         console.log( nickname);
     })
